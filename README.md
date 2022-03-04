@@ -27,6 +27,7 @@ To get a local copy up and running follow these simple example steps.
   
 ### Run tests
 
+- ruboto
 - You can run the code on IRB;
 - You can also run the code using code runner on vs code ctrl + alt + n
 
@@ -46,8 +47,6 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledges
 
 ## 📝 License
 
